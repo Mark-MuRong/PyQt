@@ -1,2 +1,2 @@
 # PyQt
-Using PyQt to do a tennis player's data management system
+使用PyQt做网球运动员的数据管理系统
